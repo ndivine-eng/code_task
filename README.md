@@ -1,6 +1,6 @@
 # Code Challenge Solutions
 
-This repository contains solutions to coding challenges i.
+This repository contains solutions to coding challenges .
 
 ## 1. UI Challenge: Interactive Photo Gallery
 
